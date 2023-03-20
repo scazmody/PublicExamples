@@ -1,5 +1,8 @@
 #usr/bin/perl
 
+#Sctript to find the Current High Impact news events for FOREX related markets. 
+#Will output to HTML file for dashboard use. 
+
 use strict;
 use warnings;
 
